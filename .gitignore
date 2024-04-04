@@ -1,0 +1,35 @@
+/Temp
+/Library
+/Obj
+/UnityGenerated
+/Build
+/Builds
+/Logs
+/.vs
+/The Hunted_Data
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/MonoBleedingEdge
+/UserSettings
+
+The Hunted.exe
+UnityCrashHandler64.exe
+UnityPlayer.dll
+The Hunted_BurstDebugInformation_DoNotShip
+
+Assets/Scenes/GameMap1/LightingData.asset
+Assets/Scenes/GameMap1/LightingData.asset.meta
+
+Assets/Scenes/Among/LightingData.asset
+Assets/Scenes/Among/LightingData.asset.meta
+Assets/External
+
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unitypackage
+*.blend1
+*.blend1.meta
+*.meta
